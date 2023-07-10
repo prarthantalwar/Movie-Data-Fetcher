@@ -5,7 +5,7 @@ import json
 # Common headers for all requests
 headers = {
     "accept": "application/json",
-    "Authorization": "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMDllYjI5Y2Q4NmQzODgwYzZlZmU0ODc0ZDQzOGQzYyIsInN1YiI6IjY0YTY0MGRmYzNiZmZlMDEyNWMxZTFkOSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.ytVcsrgOoBwz705ASMV0NiJUJLBDXRPQCwfgnkCVbNU"
+    "Authorization": "Bearer <Your API Key/Authorisation token>"
 }
 
 
